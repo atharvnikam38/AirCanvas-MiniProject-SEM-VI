@@ -95,7 +95,6 @@ Contributions are welcome! Here's how you can help:
 
 **Atharv Nikam**  
 📧 2022.atharv.nikam@ves.ac.in
-🌐 [yourwebsite.com](https://yourwebsite.com)  
 🐙 [GitHub](https://github.com/atharvnikam38)  
 🔗 [LinkedIn](https://www.linkedin.com/in/atharv-nikam-6775ba284/)
 
